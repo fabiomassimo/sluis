@@ -1,3 +1,15 @@
+temp/
+.DS_Store
+.env
+Procfile.local
+.idea/
+config/database.yml
+.capistrano/
+log/*.log
+dump.rdb
+assets/projects/
+config/settings.yml
+
 *.gem
 *.rbc
 /.config

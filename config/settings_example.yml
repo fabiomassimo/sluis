@@ -1,0 +1,3 @@
+# Application settings
+projects_root: # the path where all projects are going to be stored.
+git_address_prefix: # the git prefix for all projects under version control (i.e. git@companyname.github.com)
