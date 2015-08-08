@@ -24,7 +24,7 @@ Retrieve a list of supported projects.
 
     + Body
 
-            ["weeronline-universal", "brandbite-ios", "ING Creditview"]
+            ["my_awesome_project", "my_awesome_project_again", "my_awesome_project_is_awesome"]
 ```
 
 ### Deploy a managed project
