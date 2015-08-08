@@ -6,6 +6,10 @@ It’s a small Sinatra application which provides a RESTful API to deploy projec
 
 ## How I use it?
 
+### Configure `sluis`'s settings
+
+Create a `settings.yml` file and fill it with the instructions available in `/config/settings_example.yml`.
+
 ### Configure your `fastlane_configuration.yml` file
 
 Add `fastlane_configuration.yml` to you project's fastlane folder (i.e. `{PROJECT_FOLDER}/fastlane`)
