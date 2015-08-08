@@ -6,8 +6,13 @@ It’s a small Sinatra application which provides a RESTful API to deploy projec
 
 ## How I use it?
 
-Sluis provides automated project deployment *only* for projects that supports sluis integration.
-Any attempt to deploy projects which are not supported will immediatelly fail. 
+### Configure your `fastlane_configuration.yml` file
+
+Add `fastlane_configuration.yml` to you project's fastlane folder (i.e. `{PROJECT_FOLDER}/fastlane`)
+The Fastlane configuration file helps you to specify settings for your project which will be available in your `Fastfile`. This might be a perfect place where you define variables that you want to re-use in a `Fastfile` shared
+    among all your projects.
+    
+
 
 ### Retrieve managed projects
 
