@@ -18,7 +18,7 @@ The Fastlane configuration file helps you to specify settings for your project w
     
 
 
-### Retrieve managed projects
+### Retrieve supported projects
 
 Retrieve a list of supported projects.
 
